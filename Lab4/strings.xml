@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Угадай число!</string>
+    <string name="enter_number_hint">Попробуйте угадать число от 0 до 100</string>
+    <string name="enter_value_button">Ввести значение</string>
+    <string name="less">Недолет!</string>
+    <string name="more">Перелет!</string>
+    <string name="congrats">В точку!</string>
+    <string name="empty_string">Строка пуста.</string>
+    <string name="unknown">Неверный ввод</string>
+</resources>
